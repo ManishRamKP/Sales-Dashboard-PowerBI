@@ -260,4 +260,4 @@ Sales-Dashboard-PowerBI/
 ## Connect With Me
 
 - GitHub: [ManishRamKP](https://github.com/ManishRamKP)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+
